@@ -1,2 +1,4 @@
 # fevzi01.github.io
-YakindaYayinda
+Fevzi Taşarslan
+Alparslan üni
+Bilişim sistemleri ve teknolojileri
